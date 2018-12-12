@@ -7,10 +7,10 @@
 ## dev
 
 ```shell
-- git clone https://github.com/wangwenyue/react-hooks-todo
+git clone https://github.com/wangwenyue/react-hooks-todo
 
-- yarn install
+yarn install
 
-- yarn start
+yarn start
 ```
 
